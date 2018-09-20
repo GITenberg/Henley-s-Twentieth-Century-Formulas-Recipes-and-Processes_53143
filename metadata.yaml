@@ -1,6 +1,9 @@
 _repo: Henley-s-Twentieth-Century-Formulas-Recipes-and-Processes_53143
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Henley's 20th Century Formulas, Recipes and Processes
+covers:
+- cover_type: archival
+  image_path: 53143-h/images/cover.jpg
 creator:
   editor:
     agent_name: Hiscox, Gardner Dexter
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '47237'
     url: http://www.gutenberg.org/2009/agents/47237
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53143#Henley-s-Twentieth-Century-Formulas-Recipes-and-Processes
 gutenberg_issued: '2016-09-25'
 gutenberg_type: Text
 identifiers:
